@@ -1,4 +1,4 @@
-package com.ohgiraffers.assignment;
+package com.ohgiraffers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
